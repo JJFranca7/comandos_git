@@ -1,0 +1,12 @@
+git init # inicializa o git no repositório
+git clone <URL> # copiar repositório remoto
+git status # lista as modificações atuais do repositório
+git log # lista histórico de commits
+git add <nome-arquivo> # adiciona o arquivo do palco (stage)
+git reset <nome-arquivo> # remove o arquivo do palco (stage)
+git commit -m "mensagem" # realiza o commit das modificações
+git branch # lista todas as branchs locais
+git branch <nome-branch> # cria uma nova branch
+git checkout <nome-branch> # entra na branch
+git pull origin <nome-branch> # puxa as modificações
+git push origin <nome-branch> # envia as modificações
