@@ -10,3 +10,5 @@ git branch <nome-branch> # cria uma nova branch
 git checkout <nome-branch> # entra na branch
 git pull origin <nome-branch> # puxa as modificações
 git push origin <nome-branch> # envia as modificações
+git remote add <name> <url> # conecta o repositório em nuvem ao seu controle de versionamento local
+git add. # adiciona todos os arquivos do palco (stage)
